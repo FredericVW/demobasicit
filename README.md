@@ -1,1 +1,1 @@
-Dit is een demoomgeving.
+Dit is een demo omgeving.
