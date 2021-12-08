@@ -1,4 +1,8 @@
 test
+<<<<<<< HEAD
 test-branch
 test-branch-fred
 main-branch
+=======
+fred-branch
+>>>>>>> fred-branch
